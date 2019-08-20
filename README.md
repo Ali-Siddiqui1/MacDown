@@ -2,10 +2,10 @@
 How-to-use-MacDown
 
 To add Headers use # 
-#Header
+# Header
 
 or we can make it small just have to add more
-##SmallHeader
+## SmallHeader
 
 To bold text we just put them inside astrick 
 
@@ -19,12 +19,12 @@ or use underscore key to italicize
 
 _italicize_
 
-#Ordered list 
+# Ordered list 
 1. Apples
 2. Oranges
 3. Bananas
 
-#Unordered list
+# Unordered list
 
 * Apples
 * oranges 
@@ -40,17 +40,18 @@ To turn a text into a block qoute we just use > key
 
 > cake lollipop tiramisu tootsie roll
 
-#Email Address
+# Email Address
 To make email address use < > keys 
 
 <Jays@makeuseof.com>
 
-#Inline URL links
+# Inline URL links
 This is an inline link, <http://apple.com>, in which the url is shown.
 
 
 This is an inline link for [apple](http://apple.com.au), in which the URL is embedded.
  
-#Adding inline Images 
+# Adding inline Images 
 
-![Udacity Self Driving Car](MacDown.png)
+![MacDown Image](MacDown.png)
+
