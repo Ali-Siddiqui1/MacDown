@@ -4,18 +4,18 @@ How-to-use-MacDown
 To add Headers use # 
 # Header
 
-or we can make it small just have to add more
+or we can make it small just have to add more ##
 ## SmallHeader
 
-To bold text we just put them inside astrick 
+To bold text we just put them inside double astrick **
 
 **Bold**
 
-To make text italicize use single astrick 
+To make text italicize use single astrick *
 
 *italicize*
 
-or use underscore key to italicize
+Another way to to italicize text using  underscore key "_" 
 
 _italicize_
 
@@ -30,7 +30,7 @@ _italicize_
 * oranges 
 * Bananas
 
-or we can use -
+Another way to use -
 
 - Grapes 
 
